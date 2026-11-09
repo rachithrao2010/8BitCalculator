@@ -1,0 +1,9 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Transistors,160,Fairchild,$0.02,$3.20,https://www.taydaelectronics.com/2n3904-npn-general-propose-transistor.html
+1K resistors,80,Tayda,$0.02,$1.60,https://www.taydaelectronics.com/test-group-2.html
+10K resistors,160,Tayda,$0.02,$3.20,https://www.taydaelectronics.com/test-group-2.html
+Slide Switches,17,WEALTH METAL,$0.12,$2.04,https://www.taydaelectronics.com/slide-switch-1p2t-through-hole-0-3a-30vdc.html
+battery holder,1,Tayda,$0.40,$0.40,https://www.taydaelectronics.com/4-x-aaa-battery-holder.html
+LED,9,Tayda,$0.02,$0.18,https://www.taydaelectronics.com/led-3mm-red.html
+PCB,1,JLCPCB,$14.83,$14.83,https://cart.jlcpcb.com/shopcart/cart/
+Estimated total shipping,1,,,$8.55,
